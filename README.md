@@ -39,3 +39,6 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+
+## Heroku
+This app is deployed [here](https://intense-reaches-99654.herokuapp.com/).
