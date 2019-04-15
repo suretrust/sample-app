@@ -8,7 +8,7 @@
 /.bundle
 
 # ignore spring directory
-spring/
+/spring/*
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
