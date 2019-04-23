@@ -5,6 +5,10 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+
+## Heroku
+This app is deployed [here](https://intense-reaches-99654.herokuapp.com/).
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
@@ -40,5 +44,3 @@ $ rails server
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
 
-## Heroku
-This app is deployed [here](https://intense-reaches-99654.herokuapp.com/).
